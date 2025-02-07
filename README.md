@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nethmi Bandara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloof712&label=Profile%20views&color=0e75b6&style=flat" alt="aloof712" /> </p>
 
+<h2>About Me </h2>
+
 - 🔭 I’m currently studying as an **IT undergraduate at Uva Wellassa University,Sri Lanka**
 
 - 🌱 I’m currently learning **Java Script,C and Python**
