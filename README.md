@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying as an **IT undergraduate at Uva Wellassa University,Sri Lanka**
 
-- 🌱 I’m currently learning **Java Script,C and Python**
+- 🌱 I’m currently learning **Java,C,Flutter and Python**
 
 - 📫 How to reach me **nethmibandara0613@gmail.com**
   <br>
