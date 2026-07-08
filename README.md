@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloof712&show_icons=true&locale=en" alt="aloof712" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloof712&" alt="aloof712" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aloof712&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloof712&layout=compact&theme=tokyonight)
