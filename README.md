@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0D4A2F&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nethmi+Bandara;Industrial+Information+Technology+Student;Java+Developer;React+%7C+PHP+%7C+MySQL;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nethmi+Bandara;Industrial+Information+Technology+Student;Java+Developer;React+%7C+PHP+%7C+MySQL;Always+Learning+New+Things" />
 </p>
-
-
-<h1 align="center">Hi 👋, I'm Nethmi Bandara</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aloof712&label=Profile%20views&color=0e75b6&style=flat" alt="aloof712" /> </p>
 
 <h2 align="center">About Me: </h2>
 
@@ -27,7 +23,7 @@
 <br><br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloof712&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aloof712&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloof712&layout=compact&theme=tokyonight"/>
