@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying as an **Industrial Information Technology Undergraduate at Uva Wellassa University,Sri Lanka**
 
-  🌱 I’m currently learning **React, PHP, MySQL, Java & Flutter**
+- 🌱 I’m currently learning **React, PHP, MySQL, Java & Flutter**
 
 - 📫 How to reach me **nethmibandara0613@gmail.com**
   <br>
